@@ -12,10 +12,6 @@
 
 ---
 
-### DATA ANALYST | SOC ANALYST | CYBERSECURITY
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=20C997&center=true&vCenter=true&width=700&lines=DATA+ANALYTICS;SECURITY+OPERATIONS;PYTHON+%7C+SQL+%7C+POWER+BI;SPLUNK+%7C+MICROSOFT+DEFENDER;LINUX+%7C+SIEM+%7C+LOG+ANALYSIS" alt="Animated typing text" />
-
 **TANZANIA 🇹🇿 · DATA · TECHNOLOGY · SECURITY**
 
 </div>
