@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./yuster8-banner.png.jpeg"
+  <img src="./yuster8-banner.png"
        width="100%"
        alt="Yuster Peter - Data Analyst and SOC Analyst"/>
 </div>
