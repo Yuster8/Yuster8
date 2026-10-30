@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="./yuster8-banner.png" width="100%" alt="Yuster Peter - Data Analyst and SOC Analyst"/>
+  <img src="./yuster8-banner.png.jpeg"
+       width="100%"
+       alt="Yuster Peter - Data Analyst and SOC Analyst"/>
 </div>
+
 <div align="center">
 
-# YUSTER PETER
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=20C997&center=true&vCenter=true&width=650&lines=DATA+ANALYTICS;SECURITY+OPERATIONS;PYTHON+%7C+SQL+%7C+POWER+BI;SPLUNK+%7C+MICROSOFT+DEFENDER" />
+
+</div>
+
+---
 
 ### DATA ANALYST | SOC ANALYST | CYBERSECURITY
 
